@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://www.kiilin.com/categories/index.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/index.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/blog/mysql8_0_install.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/blog/template.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/blog/k8s_install.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/blog/hexo_install.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/blog/docker.html</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://www.kiilin.com/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/centos/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/hexo/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/github/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/hexo-admin/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/windows/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/mysql8/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/mysql8-0/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/install/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/template/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/%E6%A8%A1%E6%9D%BF/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/jquery/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/%E6%AD%A3%E5%88%99/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/docker/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/k8s/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/tags/kubernetes/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://www.kiilin.com/categories/%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/categories/JavaScript/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/categories/docker/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kiilin.com/categories/%E5%AE%89%E8%A3%85/install/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
